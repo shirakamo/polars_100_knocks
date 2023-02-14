@@ -1,4 +1,7 @@
 pandas
 polars
+scikit-learn
+imbalanced-learn
 jupyter
 jupyterlab
+
