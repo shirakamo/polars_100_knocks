@@ -1,7 +1,7 @@
 pandas
+pyarrow
 polars
 scikit-learn
 imbalanced-learn
 jupyter
 jupyterlab
-
